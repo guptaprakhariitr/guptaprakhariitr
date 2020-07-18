@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I am Prakhar 👋😄
+<img src="./back.svg" alt="Image describing me">
+I am a sophomore at IIT Roorkee, pursuing majors in Computer Science and Enginnering and also, a passionate software developer👩🏾‍💻. I also work as a Mobile developer at my campus group <a href="https://github.com/mdg-iitr">Mobile Development Group, IIT-R</a>.
+The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world..
+
+
+## Find me around the web 🌎
+- Check out <a href="http://prakhargupta.ml/">My website</a>
+- Reach me out at <a href="https://in.linkedin.com/in/prakhar-gupta-0601161a3">LinkedIn</a>
+- Read our blogs at <a href="https://medium.com/the-techie-trio">The Techie Trio</a> 
