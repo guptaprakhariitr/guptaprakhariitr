@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, I am Prakhar 👋😄
-<img src="./back.svg" alt="Image describing me">
+<img src="https://github.com/guptaprakhariitr/guptaprakhariitr/blob/master/back.svg" alt="Image describing me">
 I am a sophomore at IIT Roorkee, pursuing majors in Computer Science and Enginnering and also, a passionate software developer👩🏾‍💻. I also work as a Mobile developer at my campus group <a href="https://github.com/mdg-iitr">Mobile Development Group, IIT-R</a>.
 The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world..
 
