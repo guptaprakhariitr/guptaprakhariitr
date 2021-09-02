@@ -15,6 +15,7 @@ The inspiring thought of being the best version ✨ of me keeps me motivated ⚡
 
 
 ## Find me around the web 🌎
+- Check out <a href="https://drive.google.com/drive/folders/1frnSKw5F7bh61o9jccUCy4Lr7JWVQU8F?usp=sharing">My Resume</a>
 - Check out <a href="http://prakhargupta.ml/">My website</a>
 - Reach me out at <a href="https://in.linkedin.com/in/prakhar-gupta-0601161a3">LinkedIn</a>
 - Read our blogs at <a href="https://medium.com/the-techie-trio">The Techie Trio</a> 
