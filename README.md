@@ -1,8 +1,20 @@
-### Hi there 👋
-# Hello, I am Prakhar 👋😄
+# Hello, I am Prakhar 👋
 <img src="https://github.com/guptaprakhariitr/guptaprakhariitr/blob/master/back.svg" alt="Image describing me" width="300" height="340">
-I am a junior at IIT Roorkee, pursuing majors in Computer Science and Enginnering and also, a passionate software developer👩🏾‍💻. I also work as a Mobile developer at my campus group <a href="https://github.com/mdg-iitr">Mobile Development Group, IIT-R</a>.
-The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world..
+I am a junior at IIT Roorkee, pursuing majors in Computer Science and Enginnering.
+
+Project Manager and Developer at <a href="https://github.com/mdg-iitr">Mobile Development Group, IIT-R</a>.
+
+The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world.
+
+<h3 align = "left"> Some technologies I have worked: </p>
+<p align = "left">
+  <img src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+ <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
