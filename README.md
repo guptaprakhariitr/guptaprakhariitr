@@ -2,7 +2,7 @@
 <img src="https://github.com/guptaprakhariitr/guptaprakhariitr/blob/master/back.svg" alt="Image describing me" width="300" height="340">
 I am a junior at IIT Roorkee, pursuing majors in Computer Science and Enginnering.
 
-Project Manager and Developer at <a href="https://github.com/mdg-iitr">Mobile Development Group, IIT-R</a>.
+Project Manager and Developer at <a href="https://github.com/mdgspace">Mobile Development Group, IIT-R</a>.
 
 The inspiring thought of being the best version ✨ of me keeps me motivated ⚡ to explore the fields of my interests in this technological world.
 
